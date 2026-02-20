@@ -1,8 +1,4 @@
-Perfect. I’ll give you a clean, professional, GitHub-ready README for your Reddit NLP Research project — written at a strong AI/ML research + engineering level.
 
-You can copy-paste this directly into README.md.
-
-⸻
 
 🧠 Reddit NLP Research – Mental Health Behavior Modeling
 
@@ -157,7 +153,8 @@ python evaluate.py
 
 📄 Publication Status
 
-Manuscript currently under preparation for peer-reviewed publication focusing on scalable transformer-based behavioral modeling for digital mental health applications.
+The manuscript has been completed and is ready for submission to a peer-reviewed venue.
+The paper presents a scalable transformer-based framework for behavioral intent modeling in digital mental health ecosystems, including full experimental analysis, ablation studies, and reproducibility documentation.
 
 ⸻
 
@@ -167,9 +164,3 @@ Avanthika Rajesh
 MS Computer Engineering – Virginia Tech
 AI/ML | NLP | LLM Systems | Applied Research
 
-⸻
-
-If you’d like, I can now:
-	•	Make a shorter recruiter-friendly README
-	•	Or a more research-paper style README (ACL tone)
-	•	Or add a diagram section formatted for GitHub markdown with architecture blocks**
